@@ -10,3 +10,7 @@ a{
     margin: 10px;
     padding: 10px;
 }
+.primeiro_pragrafo{
+    border: 2px solid black;
+    border-radius: 5px;
+}
